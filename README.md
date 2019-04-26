@@ -1,4 +1,4 @@
-# Vim Cheat Sheet 🔥
+# Vim Cheat Sheet ⌨️
 
 A simple cheat sheet to help you become slightly more functional in Vim than `i` + `esc` + `:wq`.
 
